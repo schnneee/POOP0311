@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="233bae0e-7de0-407d-8054-b81bf4c561a4" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo3.py" beforeDir="false" afterPath="$PROJECT_DIR$/demo3.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,6 +12,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="HTML File" />
         <option value="Python Script" />
       </list>
     </option>
@@ -31,12 +31,14 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.demo9">
-    <configuration name="demo5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.day2_demo26">
+    <configuration name="day2_demo21" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="POOP0311" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -48,7 +50,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/demo5.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day2_demo21.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -57,7 +59,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="demo6" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="day2_demo22" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="POOP0311" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -69,7 +71,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/demo6.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day2_demo22.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -78,7 +80,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="demo7" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="day2_demo23" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="POOP0311" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -90,7 +92,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/demo7.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day2_demo23.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -99,7 +101,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="demo8" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="day2_demo25" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="POOP0311" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -111,7 +113,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/demo8.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day2_demo25.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -120,7 +122,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="demo9" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="day2_demo26" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="POOP0311" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -132,7 +134,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/demo9.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day2_demo26.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -142,19 +144,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.demo5" />
-      <item itemvalue="Python.demo6" />
-      <item itemvalue="Python.demo7" />
-      <item itemvalue="Python.demo8" />
-      <item itemvalue="Python.demo9" />
+      <item itemvalue="Python.day2_demo21" />
+      <item itemvalue="Python.day2_demo22" />
+      <item itemvalue="Python.day2_demo23" />
+      <item itemvalue="Python.day2_demo25" />
+      <item itemvalue="Python.day2_demo26" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.demo9" />
-        <item itemvalue="Python.demo8" />
-        <item itemvalue="Python.demo7" />
-        <item itemvalue="Python.demo6" />
-        <item itemvalue="Python.demo5" />
+        <item itemvalue="Python.day2_demo26" />
+        <item itemvalue="Python.day2_demo25" />
+        <item itemvalue="Python.day2_demo23" />
+        <item itemvalue="Python.day2_demo22" />
+        <item itemvalue="Python.day2_demo21" />
       </list>
     </recent_temporary>
   </component>
@@ -190,7 +192,14 @@
       <option name="project" value="LOCAL" />
       <updated>1583907719366</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="practices">
+      <created>1583917338922</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1583917338922</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -198,7 +207,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
@@ -207,60 +218,65 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="project setup and simple python usage" />
     <MESSAGE value="update" />
-    <option name="LAST_COMMIT_MESSAGE" value="update" />
+    <MESSAGE value="practices" />
+    <option name="LAST_COMMIT_MESSAGE" value="practices" />
   </component>
   <component name="WindowStateProjectService">
     <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583909827954">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1583909827954" />
-    <state x="604" y="110" width="1249" height="926" key="CommitChangelistDialog2" timestamp="1583909064142">
+    <state x="604" y="110" width="1249" height="926" key="CommitChangelistDialog2" timestamp="1584003717130">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="604" y="110" width="1249" height="926" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1583909064142" />
-    <state width="1362" height="266" key="GridCell.Tab.0.bottom" timestamp="1583917273370">
+    <state x="604" y="110" width="1249" height="926" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1584003717130" />
+    <state width="1362" height="266" key="GridCell.Tab.0.bottom" timestamp="1584003689530">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1362" height="266" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1583917273370" />
-    <state width="1362" height="266" key="GridCell.Tab.0.center" timestamp="1583917273370">
+    <state width="1362" height="266" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1584003689530" />
+    <state width="1362" height="266" key="GridCell.Tab.0.center" timestamp="1584003689530">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1362" height="266" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1583917273370" />
-    <state width="1362" height="266" key="GridCell.Tab.0.left" timestamp="1583917273370">
+    <state width="1362" height="266" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1584003689530" />
+    <state width="1362" height="266" key="GridCell.Tab.0.left" timestamp="1584003689530">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1362" height="266" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1583917273370" />
-    <state width="1362" height="266" key="GridCell.Tab.0.right" timestamp="1583917273370">
+    <state width="1362" height="266" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1584003689530" />
+    <state width="1362" height="266" key="GridCell.Tab.0.right" timestamp="1584003689530">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1362" height="266" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1583917273370" />
-    <state width="1362" height="328" key="GridCell.Tab.1.bottom" timestamp="1583906178575">
+    <state width="1362" height="266" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1584003689530" />
+    <state width="1362" height="328" key="GridCell.Tab.1.bottom" timestamp="1583917356920">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1362" height="328" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1583906178575" />
-    <state width="1362" height="328" key="GridCell.Tab.1.center" timestamp="1583906178574">
+    <state width="1362" height="328" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1583917356920" />
+    <state width="1362" height="328" key="GridCell.Tab.1.center" timestamp="1583917356920">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1362" height="328" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1583906178574" />
-    <state width="1362" height="328" key="GridCell.Tab.1.left" timestamp="1583906178574">
+    <state width="1362" height="328" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1583917356920" />
+    <state width="1362" height="328" key="GridCell.Tab.1.left" timestamp="1583917356920">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1362" height="328" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1583906178574" />
-    <state width="1362" height="328" key="GridCell.Tab.1.right" timestamp="1583906178574">
+    <state width="1362" height="328" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1583917356920" />
+    <state width="1362" height="328" key="GridCell.Tab.1.right" timestamp="1583917356920">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1362" height="328" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1583906178574" />
+    <state width="1362" height="328" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1583917356920" />
     <state x="461" y="161" key="SettingsEditor" timestamp="1583897002891">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="161" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1583897002891" />
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1583908977927">
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1583917342472">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1583908977927" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1583917342472" />
     <state x="647" y="343" key="com.intellij.ide.util.TipDialog" timestamp="1583893710305">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="647" y="343" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1583893710305" />
+    <state x="623" y="239" key="search.everywhere.popup" timestamp="1583976059410">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="239" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1583976059410" />
   </component>
 </project>

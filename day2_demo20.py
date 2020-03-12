@@ -1,0 +1,10 @@
+v1 = ['a', 'b', 'c']
+v2 = ('a', 'b', 'c')
+print(type(v1), type(v2))
+v1.append('d')
+print(v1, v2)
+u1 = tuple(v1)
+u2 = list(v2)
+print(type(u1), type(u2))
+u2.append('d')
+print(u1, u2)

@@ -1,0 +1,5 @@
+print("input something using keyboard")
+v1 = input("choose your selection:")
+print("your input is:", v1, "type=", type(v1))
+result = int(v1)
+print(type(result), result, result+result)

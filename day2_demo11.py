@@ -1,0 +1,20 @@
+a1 = list('ABCDEFGHIJKLMNOP')
+a2 = list('ABCDEFGHIJKLMNOP')
+a3 = a1
+print(hex(id(a1)), hex(id(a2)), hex(id(a1)))
+print(a1 == a3, a1 == a2, a2 == a3)
+a4 = []
+print(a1 == a4)
+print(a1[0], a1[len(a1) - 1])
+print(a1[-1], a1[-len(a1)])
+# print(a1[len(a1)])
+# print(a1[-len(a1)-1])
+print(a1[:5], a1[5:]) # 開頭:結尾(不含)
+print(a1[:])
+print(a1[3:7])
+print(a1[-5:-2])
+print("reverse order:", a1[-2:-5])
+print(a1[:-5], a1[-5:])
+print(a1[-2:-5:-1])
+print(a1[::-1]) # 反轉
+print(a1[::-2])
